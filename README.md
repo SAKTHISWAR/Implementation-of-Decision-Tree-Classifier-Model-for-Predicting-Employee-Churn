@@ -68,24 +68,46 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Data Head:
 
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml1.png)
+
 
 ### Data Info:
+
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml8.png)
 
 
 ### Isnull() and Sum():
 
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml2.png)
+
 
 ### Data ValueCounts:
+
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml3.png)
 
 
 
 ### Data Head for SALARY:
 
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml4.png)
+
 
 ### X Data:
 
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml5.png)
+
 
 ### Accuracy Value:
+
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml6.png)
+
+
+### Predict Value:
+
+![image](https://github.com/SAKTHISWAR/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/ml7.png)
+
+
+
 
 
 
