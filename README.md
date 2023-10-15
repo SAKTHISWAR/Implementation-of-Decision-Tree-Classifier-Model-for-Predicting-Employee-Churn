@@ -66,6 +66,33 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
+### Data Head:
+
+
+### Data Info:
+
+
+### Isnull() and Sum():
+
+
+### Data ValueCounts:
+
+
+
+### Data Head for SALARY:
+
+
+### X Data:
+
+
+### Accuracy Value:
+
+
+
+
+
+
+
 
 
 ## Result:
